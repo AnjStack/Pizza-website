@@ -138,6 +138,7 @@ body {
   border-radius: 16px;
   padding: 30px 20px;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+   animation: float 6s ease-in-out infinite;
   transition: transform 0.3s ease-in-out;
 }
 
@@ -150,7 +151,7 @@ body {
   max-width: 200px;
   margin: 0 auto 20px;
   display: block;
-  animation: float 6s ease-in-out infinite;
+  /* animation: float 30s ease-in-out infinite; */
 }
 
 
